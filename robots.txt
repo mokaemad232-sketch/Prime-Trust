@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://prime-trust-nq5.pages.dev/sitemap.xml
